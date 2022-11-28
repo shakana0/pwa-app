@@ -1,0 +1,20 @@
+{
+    "short_name": "PWA",
+    "name": "PWA Demonstration",
+    "icons": [
+        {
+            "src": "small-heart.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "heart.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "background_color": "#2c2c2c",
+    "display": "standalone",
+    "theme_color": "5092ff",
+    "description": "Demonstration of PWA"
+}
